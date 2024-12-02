@@ -1,0 +1,1045 @@
+[
+    {
+        "Question": "Vilken färg har stjärnorna i Nya Zeelands flagga?",
+        "option_1": { "text": "Vit", "isCorrect": true },
+        "option_2": { "text": "Röd", "isCorrect": false },
+        "option_3": { "text": "Blå", "isCorrect": false },
+        "option_4": { "text": "Gul", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken flagga innehåller Ashoka Chakhra, ett 24-ekers hjul, i centrum?",
+        "option_1": { "text": "Indien", "isCorrect": true },
+        "option_2": { "text": "Sri Lanka", "isCorrect": false },
+        "option_3": { "text": "Bangladesh", "isCorrect": false },
+        "option_4": { "text": "Pakistan", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter den ikoniska byggnaden på den kambodjanska flaggan?",
+        "option_1": { "text": "Shwe Dagon Pagoda", "isCorrect": false },
+        "option_2": { "text": "Angkor Wat", "isCorrect": true },
+        "option_3": { "text": "Fushimi Inari Taisha", "isCorrect": false },
+        "option_4": { "text": "Yogyakarta", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket lands flagga innehåller den största stjärnan av alla världens flaggor?",
+        "option_1": { "text": "Centralafrikanska republiken", "isCorrect": false },
+        "option_2": { "text": "Surinam", "isCorrect": false },
+        "option_3": { "text": "Myanmar", "isCorrect": false },
+        "option_4": { "text": "Jemen", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken flagga innehåller en svart dubbelhuvad örn mot en röd bakgrund?",
+        "option_1": { "text": "Albanien", "isCorrect": true },
+        "option_2": { "text": "Syrien", "isCorrect": false },
+        "option_3": { "text": "Egypten", "isCorrect": false },
+        "option_4": { "text": "Slovenien", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket lands flagga är det enda i världen som inte är en rektangel eller fyrkant?",
+        "option_1": { "text": "Nepal", "isCorrect": true },
+        "option_2": { "text": "Mongoliet", "isCorrect": false },
+        "option_3": { "text": "Sri Lanka", "isCorrect": false },
+        "option_4": { "text": "Fiji", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den enda amerikanska staten med en flagga som innehåller Union Jack?",
+        "option_1": { "text": "New Hampshire", "isCorrect": false },
+        "option_2": { "text": "Rhode Island", "isCorrect": false },
+        "option_3": { "text": "Massachusetts", "isCorrect": false },
+        "option_4": { "text": "Hawaii", "isCorrect": true }
+    },
+    {
+        "Question": "Med 12 olika färger, vilket lands flagga är den mest färgstarka i världen?",
+        "option_1": { "text": "Belize", "isCorrect": true },
+        "option_2": { "text": "Seychellerna", "isCorrect": false },
+        "option_3": { "text": "Bolivia", "isCorrect": false },
+        "option_4": { "text": "Dominica", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken av dessa flaggor INNEHÅLLER INTE en halvmåne och en stjärna?",
+        "option_1": { "text": "Pakistan", "isCorrect": false },
+        "option_2": { "text": "Tunisien", "isCorrect": false },
+        "option_3": { "text": "Marocko", "isCorrect": false },
+        "option_4": { "text": "Kalkon", "isCorrect": true }
+    },
+    {
+        "Question": "Rysslands flagga har rött, vitt och vilken annan färg?",
+        "option_1": { "text": "Blå", "isCorrect": true },
+        "option_2": { "text": "Grön", "isCorrect": false },
+        "option_3": { "text": "Svart", "isCorrect": false },
+        "option_4": { "text": "Orange", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken flagga innehåller en mörkblå cirkel i mitten som säger 'ordem e progresso'?",
+        "option_1": { "text": "Portugal", "isCorrect": false },
+        "option_2": { "text": "Kap Verde", "isCorrect": false },
+        "option_3": { "text": "Brasilien", "isCorrect": true },
+        "option_4": { "text": "Surinam", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken av dessa flaggor INNEHÅLLER INTE 3 horisontella ränder?",
+        "option_1": { "text": "Estland", "isCorrect": false },
+        "option_2": { "text": "Ungern", "isCorrect": false },
+        "option_3": { "text": "Belarus", "isCorrect": false },
+        "option_4": { "text": "Armenien", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken är den centrala färgen i Sydafrikas flagga?",
+        "option_1": { "text": "Svart", "isCorrect": false },
+        "option_2": { "text": "Gul", "isCorrect": false },
+        "option_3": { "text": "Röd", "isCorrect": false },
+        "option_4": { "text": "Grön", "isCorrect": true }
+    },
+    {
+        "Question": "Flaggan för vilket brittiskt utomeuropeiskt territorium innehåller ett slott med en nyckel?",
+        "option_1": { "text": "Cooköarna", "isCorrect": false },
+        "option_2": { "text": "Jungfruöarna", "isCorrect": false },
+        "option_3": { "text": "Anguila", "isCorrect": true },
+        "option_4": { "text": "London", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den centrala färgen i Mongoliets 3-randiga flagga?",
+        "option_1": { "text": "Blå", "isCorrect": false },
+        "option_2": { "text": "Röd", "isCorrect": true },
+        "option_3": { "text": "Gul", "isCorrect": false },
+        "option_4": { "text": "Vit", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken av dessa flaggor innehåller mer än en stjärna?",
+        "option_1": { "text": "Panama", "isCorrect": true },
+        "option_2": { "text": "Togo", "isCorrect": false },
+        "option_3": { "text": "Nordkorea", "isCorrect": false },
+        "option_4": { "text": "Malaysia", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken flagga har flest poäng på en stjärna?",
+        "option_1": { "text": "Trinidad & Tobago", "isCorrect": false },
+        "option_2": { "text": "Marshallöarna", "isCorrect": true },
+        "option_3": { "text": "Fiji", "isCorrect": false },
+        "option_4": { "text": "Salomonöarna", "isCorrect": false }
+    },
+    {
+        "Question": "Vilka två europeiska öar har en triskelion (trekantig spiral) på sin flagga?",
+        "option_1": { "text": "Minorca och Svalbard", "isCorrect": false },
+        "option_2": { "text": "Isle of Man och Sicilien", "isCorrect": true },
+        "option_3": { "text": "Färöarna och Grönland", "isCorrect": false },
+        "option_4": { "text": "Orkney och Åland", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken kvinna har vunnit 24 musikaliska Grammy-priser, flest i historien?",
+        "option_1": { "text": "Beyoncé", "isCorrect": true },
+        "option_2": { "text": "Adele", "isCorrect": false },
+        "option_3": { "text": "Aretha Franklin", "isCorrect": false },
+        "option_4": { "text": "Alison Krauss", "isCorrect": false }
+    },
+    {
+        "Question": "Ian McCulloch var ledarsångare för vilket 70-tals alternativt rockband?",
+        "option_1": { "text": "Joy Division", "isCorrect": false },
+        "option_2": { "text": "Talking Heads", "isCorrect": false },
+        "option_3": { "text": "The Cure", "isCorrect": false },
+        "option_4": { "text": "Echo and the Bunnymen", "isCorrect": true }
+    },
+    {
+        "Question": "Elton Johns hit 'Can you Feel the Love Tonight' från 1994 fanns med i vilken Disney-film?",
+        "option_1": { "text": "Lejonkungen", "isCorrect": true },
+        "option_2": { "text": "Toy Story", "isCorrect": false },
+        "option_3": { "text": "Aladdin", "isCorrect": false },
+        "option_4": { "text": "Mulan", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket Blur-album kom först?",
+        "option_1": { "text": "Modernt liv är skräp", "isCorrect": false },
+        "option_2": { "text": "Parkliv", "isCorrect": true },
+        "option_3": { "text": "The Great Escape", "isCorrect": false },
+        "option_4": { "text": "The Best of Blur", "isCorrect": false }
+    },
+    {
+        "Question": "Vem kallas ofta kungen av Latin Pop?",
+        "option_1": { "text": "Ricky Martin", "isCorrect": true },
+        "option_2": { "text": "Luis Fonsi", "isCorrect": false },
+        "option_3": { "text": "Romeo Santos", "isCorrect": false },
+        "option_4": { "text": "Enrique Iglesias", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket av dessa 4 pojkband sålde flest skivor?",
+        "option_1": { "text": "Jackson 5", "isCorrect": false },
+        "option_2": { "text": "Backstreet Boys", "isCorrect": true },
+        "option_3": { "text": "NSYNC", "isCorrect": false },
+        "option_4": { "text": "Boyz II Men", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är numret på den svarta bollen i poolen?",
+        "option_1": { "text": "8", "isCorrect": true },
+        "option_2": { "text": "7", "isCorrect": false },
+        "option_3": { "text": "9", "isCorrect": false },
+        "option_4": { "text": "10", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken tennisspelare vann Monte Carlo Masters 8 år i rad?",
+        "option_1": { "text": "Roger Federer", "isCorrect": false },
+        "option_2": { "text": "Fabio Fognini", "isCorrect": false },
+        "option_3": { "text": "Björn Borg", "isCorrect": false },
+        "option_4": { "text": "Rafael Nadal", "isCorrect": true }
+    },
+    {
+        "Question": "Vem vann Super Bowl 2020, deras första titel på 50 år?",
+        "option_1": { "text": "San Francisco 49ers", "isCorrect": false },
+        "option_2": { "text": "Green Bay Packers", "isCorrect": false },
+        "option_3": { "text": "Baltimore Ravens", "isCorrect": false },
+        "option_4": { "text": "Kansas City Chiefs", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken fotbollsspelare har för närvarande rekordet för flest assist i Premier League?",
+        "option_1": { "text": "Frank Lampard", "isCorrect": false },
+        "option_2": { "text": "Ryan Giggs", "isCorrect": false },
+        "option_3": { "text": "Steven Gerrard", "isCorrect": false },
+        "option_4": { "text": "Cesc Fabregas", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken stad var värd för OS 2000?",
+        "option_1": { "text": "Sydney", "isCorrect": true },
+        "option_2": { "text": "Atlanta", "isCorrect": false },
+        "option_3": { "text": "Tokyo", "isCorrect": false },
+        "option_4": { "text": "London", "isCorrect": false }
+    },
+    {
+        "Question": "Edgbaston är en cricketbana i vilken engelsk stad?",
+        "option_1": { "text": "Leeds", "isCorrect": false },
+        "option_2": { "text": "Birmingham", "isCorrect": true },
+        "option_3": { "text": "Nottingham", "isCorrect": false },
+        "option_4": { "text": "Durham", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket landslag har ett rekord på 100 % i finalen i Rugby World Cup?",
+        "option_1": { "text": "Sydafrika", "isCorrect": false },
+        "option_2": { "text": "Alla svarta", "isCorrect": false },
+        "option_3": { "text": "England", "isCorrect": false },
+        "option_4": { "text": "Australien", "isCorrect": true }
+    },
+    {
+        "Question": "Inklusive spelare och domare, hur många är det på isen under en ishockeymatch?",
+        "option_1": { "text": "16", "isCorrect": true },
+        "option_2": { "text": "12", "isCorrect": false },
+        "option_3": { "text": "18", "isCorrect": false },
+        "option_4": { "text": "20", "isCorrect": false }
+    },
+    {
+        "Question": "Vid vilken ålder gjorde den kinesiske golfaren Tianlang Guan sitt första framträdande i Master's Tournament?",
+        "option_1": { "text": "12", "isCorrect": false },
+        "option_2": { "text": "14", "isCorrect": true },
+        "option_3": { "text": "16", "isCorrect": false },
+        "option_4": { "text": "18", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter den svenska stavhopparen som för närvarande innehar världsrekordet?",
+        "option_1": { "text": "Armand Duplantis", "isCorrect": true },
+        "option_2": { "text": "Daniel Ståhl", "isCorrect": false },
+        "option_3": { "text": "Kajsa Bergqvist", "isCorrect": false },
+        "option_4": { "text": "Angelica Bengtsson", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket av dessa är INTE ett djur från den kinesiska zodiaken?",
+        "option_1": { "text": "Tupp", "isCorrect": false },
+        "option_2": { "text": "Apa", "isCorrect": false },
+        "option_3": { "text": "Gris", "isCorrect": false },
+        "option_4": { "text": "Elefant", "isCorrect": true }
+    },
+    {
+        "Question": "Vilka två djur utgör australiensiska riksvapnet?",
+        "option_1": { "text": "Wombat & wallaby", "isCorrect": false },
+        "option_2": { "text": "Orm & spindel", "isCorrect": false },
+        "option_3": { "text": "Känguru & emu", "isCorrect": true },
+        "option_4": { "text": "Dragon & dingo", "isCorrect": false }
+    },
+    {
+        "Question": "När tillagad, vilket djur blir 'fugu', en delikatess i Japan?",
+        "option_1": { "text": "Räkor", "isCorrect": false },
+        "option_2": { "text": "Blåsfisk", "isCorrect": true },
+        "option_3": { "text": "Haj", "isCorrect": false },
+        "option_4": { "text": "Ål", "isCorrect": false }
+    },
+    {
+        "Question": "'Biodling' avser uppfödning av vilka djur?",
+        "option_1": { "text": "Bin", "isCorrect": true },
+        "option_2": { "text": "Höns", "isCorrect": false },
+        "option_3": { "text": "Kossor", "isCorrect": false },
+        "option_4": { "text": "Grisar", "isCorrect": false }
+    },
+    {
+        "Question": "Oceloter bor främst på vilken kontinent?",
+        "option_1": { "text": "Afrika", "isCorrect": false },
+        "option_2": { "text": "Asien", "isCorrect": false },
+        "option_3": { "text": "Europa", "isCorrect": false },
+        "option_4": { "text": "Sydamerika", "isCorrect": true }
+    },
+    {
+        "Question": "Någon med 'musofobi' lider av rädsla för vilket djur?",
+        "option_1": { "text": "Meerkats", "isCorrect": false },
+        "option_2": { "text": "Elefanter", "isCorrect": false },
+        "option_3": { "text": "Möss", "isCorrect": true },
+        "option_4": { "text": "Strutsar", "isCorrect": false }
+    },
+    {
+        "Question": "'Entomologi' är studiet av vilken typ av djur?",
+        "option_1": { "text": "Insekter", "isCorrect": true },
+        "option_2": { "text": "Fåglar", "isCorrect": false },
+        "option_3": { "text": "Hajar", "isCorrect": false },
+        "option_4": { "text": "Fiskar", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket djur har den längsta tungan i förhållande till kroppslängden?",
+        "option_1": { "text": "Myrfisk", "isCorrect": false },
+        "option_2": { "text": "Kameleont", "isCorrect": true },
+        "option_3": { "text": "Solbjörn", "isCorrect": false },
+        "option_4": { "text": "Kolibri", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken film från 1993 spelade Liam Neeson och Ralph Fiennes i andra världskriget?",
+        "option_1": { "text": "The English Patient", "isCorrect": false },
+        "option_2": { "text": "The Pianist", "isCorrect": false },
+        "option_3": { "text": "Schindler's List", "isCorrect": true },
+        "option_4": { "text": "The Reader", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken skådespelare fick Oscar-nomineringar för Street Smart, Driving Miss Daisy, The Shawshank Redemption och Invictus?",
+        "option_1": { "text": "Morgan Freeman", "isCorrect": true },
+        "option_2": { "text": "Jessica Tandy", "isCorrect": false },
+        "option_3": { "text": "Matt Damon", "isCorrect": false },
+        "option_4": { "text": "Tim Robbins", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken Hollywood-regissör gjorde sin regidebut med 'Duel' 1971?",
+        "option_1": { "text": "George Lucas", "isCorrect": false },
+        "option_2": { "text": "Martin Scorsese", "isCorrect": false },
+        "option_3": { "text": "Steven Spielberg", "isCorrect": true },
+        "option_4": { "text": "Woody Allen", "isCorrect": false }
+    },
+    {
+        "Question": "Vem ger rösten till karaktären Lightning McQueen i filmen 'Cars'?",
+        "option_1": { "text": "Tom Hanks", "isCorrect": false },
+        "option_2": { "text": "Owen Wilson", "isCorrect": true },
+        "option_3": { "text": "Ben Stiller", "isCorrect": false },
+        "option_4": { "text": "Matthew McConaughey", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken film vann 2012 Oscar för bästa film?",
+        "option_1": { "text": "The Hurt Locker", "isCorrect": false },
+        "option_2": { "text": "Argo", "isCorrect": true },
+        "option_3": { "text": "The King's Speech", "isCorrect": false },
+        "option_4": { "text": "The Artist", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket åldersdrama, som spelades in i det amerikanska inbördeskriget, var en anpassning av en bok av Louisa M. Alcott?",
+        "option_1": { "text": "Little Men", "isCorrect": false },
+        "option_2": { "text": "An Old-Fashioned Girl", "isCorrect": false },
+        "option_3": { "text": "Eight Cousins", "isCorrect": false },
+        "option_4": { "text": "Little Women", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken fransk skådespelerska spelade tillsammans med Tom Hanks som agent Sophie Neveu i filmen Da Vinci Code från 2006?",
+        "option_1": { "text": "Mélanie Laurent", "isCorrect": false },
+        "option_2": { "text": "Audrey Tautou", "isCorrect": true },
+        "option_3": { "text": "Marion Cotillard", "isCorrect": false },
+        "option_4": { "text": "Eva Green", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken film spelade Harrison Ford, Sean Young och Rutger Hauer?",
+        "option_1": { "text": "Blade Runner", "isCorrect": true },
+        "option_2": { "text": "Raiders of the Lost Ark", "isCorrect": false },
+        "option_3": { "text": "The Fugitive", "isCorrect": false },
+        "option_4": { "text": "Star Wars: Episode IV - A New Hope", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter proteinet som bär syre i blodet?",
+        "option_1": { "text": "Hemoglobin", "isCorrect": true },
+        "option_2": { "text": "Myoglobin", "isCorrect": false },
+        "option_3": { "text": "Albumin", "isCorrect": false },
+        "option_4": { "text": "Fibrinogen", "isCorrect": false }
+    },
+    {
+        "Question": "Vad kallas den del av hjärnan som styr känslor?",
+        "option_1": { "text": "Cerebellum", "isCorrect": false },
+        "option_2": { "text": "Hippocampus", "isCorrect": false },
+        "option_3": { "text": "Amygdala", "isCorrect": true },
+        "option_4": { "text": "Thalamus", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är den största körteln i människokroppen?",
+        "option_1": { "text": "Sköldkörteln", "isCorrect": false },
+        "option_2": { "text": "Bukspottkörteln", "isCorrect": false },
+        "option_3": { "text": "Levern", "isCorrect": true },
+        "option_4": { "text": "Mjälten", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den mest använda anestesimedlet?",
+        "option_1": { "text": "Lidokain", "isCorrect": false },
+        "option_2": { "text": "Propofol", "isCorrect": true },
+        "option_3": { "text": "Ketamin", "isCorrect": false },
+        "option_4": { "text": "Isofluran", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den största planeten i solsystemet?",
+        "option_1": { "text": "Mars", "isCorrect": false },
+        "option_2": { "text": "Jupiter", "isCorrect": true },
+        "option_3": { "text": "Saturnus", "isCorrect": false },
+        "option_4": { "text": "Neptunus", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är huvudstaden i Grekland?",
+        "option_1": { "text": "Thessaloniki", "isCorrect": false },
+        "option_2": { "text": "Athens", "isCorrect": true },
+        "option_3": { "text": "Patras", "isCorrect": false },
+        "option_4": { "text": "Heraklion", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket land gränsar till Syrien i väst?",
+        "option_1": { "text": "Turkiet", "isCorrect": false },
+        "option_2": { "text": "Libanon", "isCorrect": true },
+        "option_3": { "text": "Jordanien", "isCorrect": false },
+        "option_4": { "text": "Irak", "isCorrect": false }
+    },
+    {
+        "Question": "Vad kallas den syriska huvudstaden?",
+        "option_1": { "text": "Damaskus", "isCorrect": true },
+        "option_2": { "text": "Aleppo", "isCorrect": false },
+        "option_3": { "text": "Homs", "isCorrect": false },
+        "option_4": { "text": "Latakia", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket år föddes den grekiska filosoferna Aristoteles?",
+        "option_1": { "text": "384 f.Kr.", "isCorrect": true },
+        "option_2": { "text": "428 f.Kr.", "isCorrect": false },
+        "option_3": { "text": "480 f.Kr.", "isCorrect": false },
+        "option_4": { "text": "490 f.Kr.", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter den största öknen i världen?",
+        "option_1": { "text": "Sahara", "isCorrect": false },
+        "option_2": { "text": "Gobiöknen", "isCorrect": false },
+        "option_3": { "text": "Arabiska öknen", "isCorrect": false },
+        "option_4": { "text": "Antarktiska öknen", "isCorrect": true }
+    },
+    {
+        "Question": "Vilket land ligger på gränsen mellan Asien och Europa?",
+        "option_1": { "text": "Turkiet", "isCorrect": true },
+        "option_2": { "text": "Ryssland", "isCorrect": false },
+        "option_3": { "text": "Israel", "isCorrect": false },
+        "option_4": { "text": "Iran", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den största staden i Syrien?",
+        "option_1": { "text": "Damaskus", "isCorrect": false },
+        "option_2": { "text": "Aleppo", "isCorrect": true },
+        "option_3": { "text": "Homs", "isCorrect": false },
+        "option_4": { "text": "Latakia", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den största ön i Grekland?",
+        "option_1": { "text": "Kreta", "isCorrect": true },
+        "option_2": { "text": "Rhodos", "isCorrect": false },
+        "option_3": { "text": "Korfu", "isCorrect": false },
+        "option_4": { "text": "Lesbos", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter det största sjukhuset i Grekland?",
+        "option_1": { "text": "Attikon", "isCorrect": true },
+        "option_2": { "text": "KAT", "isCorrect": false },
+        "option_3": { "text": "Pammakaristos", "isCorrect": false },
+        "option_4": { "text": "Laiko", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket organ producerar insulin?",
+        "option_1": { "text": "Bukspottkörteln", "isCorrect": true },
+        "option_2": { "text": "Levern", "isCorrect": false },
+        "option_3": { "text": "Njuren", "isCorrect": false },
+        "option_4": { "text": "Hjärnan", "isCorrect": false }
+    },
+    {
+        "Question": "Vad kallas den del av hjärnan som styr motorik?",
+        "option_1": { "text": "Cerebellum", "isCorrect": true },
+        "option_2": { "text": "Hippocampus", "isCorrect": false },
+        "option_3": { "text": "Amygdala", "isCorrect": false },
+        "option_4": { "text": "Thalamus", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter det hormon som hjälper till att reglera ämnesomsättningen?",
+        "option_1": { "text": "Insulin", "isCorrect": false },
+        "option_2": { "text": "Tyroxin", "isCorrect": true },
+        "option_3": { "text": "Adrenalin", "isCorrect": false },
+        "option_4": { "text": "Kortisol", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket land är källan till floden Eufrat?",
+        "option_1": { "text": "Syrien", "isCorrect": false },
+        "option_2": { "text": "Irak", "isCorrect": false },
+        "option_3": { "text": "Turkiet", "isCorrect": true },
+        "option_4": { "text": "Iran", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket är det mest befolkade landet i Mellanöstern?",
+        "option_1": { "text": "Egypten", "isCorrect": true },
+        "option_2": { "text": "Saudiarabien", "isCorrect": false },
+        "option_3": { "text": "Iran", "isCorrect": false },
+        "option_4": { "text": "Irak", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är den officiella religionen i Syrien?",
+        "option_1": { "text": "Kristendom", "isCorrect": false },
+        "option_2": { "text": "Islam", "isCorrect": true },
+        "option_3": { "text": "Judendom", "isCorrect": false },
+        "option_4": { "text": "Zoroastrism", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken grekisk gud är känd som guden för krig?",
+        "option_1": { "text": "Zeus", "isCorrect": false },
+        "option_2": { "text": "Poseidon", "isCorrect": false },
+        "option_3": { "text": "Ares", "isCorrect": true },
+        "option_4": { "text": "Apollon", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter den största floden i Syrien?",
+        "option_1": { "text": "Tigris", "isCorrect": false },
+        "option_2": { "text": "Eufrat", "isCorrect": true },
+        "option_3": { "text": "Jordan", "isCorrect": false },
+        "option_4": { "text": "Khabur", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är huvudstaden i Sverige?",
+        "option_1": { "text": "Göteborg", "isCorrect": false },
+        "option_2": { "text": "Stockholm", "isCorrect": true },
+        "option_3": { "text": "Malmö", "isCorrect": false },
+        "option_4": { "text": "Uppsala", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken färg har ett stoppskylt?",
+        "option_1": { "text": "Blå", "isCorrect": false },
+        "option_2": { "text": "Röd", "isCorrect": true },
+        "option_3": { "text": "Grön", "isCorrect": false },
+        "option_4": { "text": "Gul", "isCorrect": false }
+    },
+    {
+        "Question": "Vem var Sveriges första kvinnliga statsminister?",
+        "option_1": { "text": "Margaretha Wallenius", "isCorrect": false },
+        "option_2": { "text": "Anna Lindh", "isCorrect": false },
+        "option_3": { "text": "Magdalena Andersson", "isCorrect": true },
+        "option_4": { "text": "Ebba Busch", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är den kemiska beteckningen för vatten?",
+        "option_1": { "text": "H2O", "isCorrect": true },
+        "option_2": { "text": "CO2", "isCorrect": false },
+        "option_3": { "text": "H2", "isCorrect": false },
+        "option_4": { "text": "O2", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är den största planeten i vårt solsystem?",
+        "option_1": { "text": "Mars", "isCorrect": false },
+        "option_2": { "text": "Jupiter", "isCorrect": true },
+        "option_3": { "text": "Saturnus", "isCorrect": false },
+        "option_4": { "text": "Neptunus", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är Sveriges största sjö?",
+        "option_1": { "text": "Vättern", "isCorrect": false },
+        "option_2": { "text": "Mälaren", "isCorrect": false },
+        "option_3": { "text": "Stora Le", "isCorrect": false },
+        "option_4": { "text": "Väddöviken", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken svensk skådespelare har spelat James Bond?",
+        "option_1": { "text": "Henrik Lundqvist", "isCorrect": false },
+        "option_2": { "text": "Daniel Craig", "isCorrect": false },
+        "option_3": { "text": "Pierce Brosnan", "isCorrect": false },
+        "option_4": { "text": "Stellan Skarsgård", "isCorrect": true }
+    },
+    {
+        "Question": "Vad är världens största hav?",
+        "option_1": { "text": "Atlanten", "isCorrect": false },
+        "option_2": { "text": "Indiska oceanen", "isCorrect": false },
+        "option_3": { "text": "Arktiska havet", "isCorrect": false },
+        "option_4": { "text": "Stilla havet", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken svensk artist sjöng hitlåten 'Dancing Queen'?",
+        "option_1": { "text": "ABBA", "isCorrect": true },
+        "option_2": { "text": "Zara Larsson", "isCorrect": false },
+        "option_3": { "text": "Ace of Base", "isCorrect": false },
+        "option_4": { "text": "Avicii", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är det största djuret på jorden?",
+        "option_1": { "text": "Afrikansk elefant", "isCorrect": false },
+        "option_2": { "text": "Blåval", "isCorrect": true },
+        "option_3": { "text": "Höglandsgiraff", "isCorrect": false },
+        "option_4": { "text": "Kaskelott", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den största staden i Sverige?",
+        "option_1": { "text": "Stockholm", "isCorrect": true },
+        "option_2": { "text": "Göteborg", "isCorrect": false },
+        "option_3": { "text": "Malmö", "isCorrect": false },
+        "option_4": { "text": "Uppsala", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter Sveriges kung?",
+        "option_1": { "text": "Carl XVI Gustaf", "isCorrect": true },
+        "option_2": { "text": "Oscar II", "isCorrect": false },
+        "option_3": { "text": "Gustav V", "isCorrect": false },
+        "option_4": { "text": "Viktor", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter den svenska fotbollsspelaren som spelar för Barcelona?",
+        "option_1": { "text": "Zlatan Ibrahimović", "isCorrect": false },
+        "option_2": { "text": "Ola Toivonen", "isCorrect": false },
+        "option_3": { "text": "Alexander Isak", "isCorrect": false },
+        "option_4": { "text": "Victor Lindelöf", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är världens längsta flod?",
+        "option_1": { "text": "Amazonfloden", "isCorrect": true },
+        "option_2": { "text": "Nilen", "isCorrect": false },
+        "option_3": { "text": "Yangtze", "isCorrect": false },
+        "option_4": { "text": "Mississippi", "isCorrect": false }
+    },
+    {
+        "Question": "Vem skrev boken 'Pippi Långstrump'?",
+        "option_1": { "text": "Astrid Lindgren", "isCorrect": true },
+        "option_2": { "text": "Bjarne Reuter", "isCorrect": false },
+        "option_3": { "text": "Selma Lagerlöf", "isCorrect": false },
+        "option_4": { "text": "Tove Jansson", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket år inträffade den svenska stormaktstiden?",
+        "option_1": { "text": "1600-talet", "isCorrect": true },
+        "option_2": { "text": "1700-talet", "isCorrect": false },
+        "option_3": { "text": "1800-talet", "isCorrect": false },
+        "option_4": { "text": "1900-talet", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket är Sveriges nationaldag?",
+        "option_1": { "text": "6 juni", "isCorrect": true },
+        "option_2": { "text": "23 april", "isCorrect": false },
+        "option_3": { "text": "1 maj", "isCorrect": false },
+        "option_4": { "text": "24 december", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter världens högsta berg?",
+        "option_1": { "text": "K2", "isCorrect": false },
+        "option_2": { "text": "Everest", "isCorrect": true },
+        "option_3": { "text": "Kangchenjunga", "isCorrect": false },
+        "option_4": { "text": "Makalu", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är Sveriges största exportprodukt?",
+        "option_1": { "text": "Stål", "isCorrect": true },
+        "option_2": { "text": "Skogsprodukter", "isCorrect": false },
+        "option_3": { "text": "Fisk", "isCorrect": false },
+        "option_4": { "text": "Textilier", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den minsta planeten i vårt solsystem?",
+        "option_1": { "text": "Jorden", "isCorrect": false },
+        "option_2": { "text": "Pluto", "isCorrect": true },
+        "option_3": { "text": "Merkurius", "isCorrect": false },
+        "option_4": { "text": "Venus", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är namnet på den längsta bergskedjan i Sydamerika?",
+        "option_1": { "text": "Anderna", "isCorrect": true },
+        "option_2": { "text": "Himalaya", "isCorrect": false },
+        "option_3": { "text": "Alperna", "isCorrect": false },
+        "option_4": { "text": "Appalacherna", "isCorrect": false }
+    },
+    {
+        "Question": "I vilken stad finns den berömda Edvard Eriksen-stadgan, The Little Mermaid?",
+        "option_1": { "text": "Oslo", "isCorrect": false },
+        "option_2": { "text": "Stockholm", "isCorrect": false },
+        "option_3": { "text": "Köpenhamn", "isCorrect": true },
+        "option_4": { "text": "Helsingfors", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är den längsta hängbron i världen?",
+        "option_1": { "text": "Golden Gate-bron", "isCorrect": false },
+        "option_2": { "text": "Akashi Kaikyō Bridge", "isCorrect": true },
+        "option_3": { "text": "Xihoumen Bridge", "isCorrect": false },
+        "option_4": { "text": "Clifton hängbro", "isCorrect": false }
+    },
+    {
+        "Question": "I vilket land är det högsta vattenfallet i Europa?",
+        "option_1": { "text": "Island", "isCorrect": false },
+        "option_2": { "text": "Finland", "isCorrect": false },
+        "option_3": { "text": "Sverige", "isCorrect": false },
+        "option_4": { "text": "Norge", "isCorrect": true }
+    },
+    {
+        "Question": "Vad är den största staden i världen när det gäller befolkningstäthet?",
+        "option_1": { "text": "Peking", "isCorrect": false },
+        "option_2": { "text": "Manila", "isCorrect": true },
+        "option_3": { "text": "Mumbai", "isCorrect": false },
+        "option_4": { "text": "New York", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken stad, översatt till engelska, betyder 'lerigt sammanflöde'?",
+        "option_1": { "text": "Singapore", "isCorrect": false },
+        "option_2": { "text": "Jakarta", "isCorrect": true },
+        "option_3": { "text": "Kuala Lumpur", "isCorrect": false },
+        "option_4": { "text": "Hong Kong", "isCorrect": false }
+    },
+    {
+        "Question": "Världens kortaste internationella gräns är bara 150 meter lång och förbinder Zambia med vilket annat land?",
+        "option_1": { "text": "Botswana", "isCorrect": true },
+        "option_2": { "text": "Uganda", "isCorrect": false },
+        "option_3": { "text": "Kenya", "isCorrect": false },
+        "option_4": { "text": "Angola", "isCorrect": false }
+    },
+    {
+        "Question": "Var är Suckarnas bro?",
+        "option_1": { "text": "Paris", "isCorrect": false },
+        "option_2": { "text": "Venedig", "isCorrect": true },
+        "option_3": { "text": "Tokyo", "isCorrect": false },
+        "option_4": { "text": "San Francisco", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är huvudstaden i Namibia?",
+        "option_1": { "text": "Ouagadougou", "isCorrect": false },
+        "option_2": { "text": "Accra", "isCorrect": false },
+        "option_3": { "text": "Windhoek", "isCorrect": true },
+        "option_4": { "text": "Kigali", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken av dessa städer har den största befolkningen?",
+        "option_1": { "text": "New Delhi", "isCorrect": false },
+        "option_2": { "text": "Mexico City", "isCorrect": false },
+        "option_3": { "text": "Shanghai", "isCorrect": false },
+        "option_4": { "text": "São Paulo", "isCorrect": true }
+    },
+    {
+        "Question": "Om du lägger till titlarna på alla tre Adele-album, vilket nummer hamnar du på?",
+        "option_1": { "text": "65", "isCorrect": true },
+        "option_2": { "text": "72", "isCorrect": false },
+        "option_3": { "text": "53", "isCorrect": false },
+        "option_4": { "text": "58", "isCorrect": false }
+    },
+    {
+        "Question": "Från vilken hamnstad i England lämnade Titanic 1912?",
+        "option_1": { "text": "Dover", "isCorrect": false },
+        "option_2": { "text": "Liverpool", "isCorrect": false },
+        "option_3": { "text": "Southampton", "isCorrect": true },
+        "option_4": { "text": "Grimsby", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket tecken på zodiaken sträcker sig från 23 augusti till 22 september?",
+        "option_1": { "text": "Jungfrun", "isCorrect": true },
+        "option_2": { "text": "Lejonet", "isCorrect": false },
+        "option_3": { "text": "Skorpionen", "isCorrect": false },
+        "option_4": { "text": "Vågen", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken professionell sport spelade bankrånaren John Dillinger?",
+        "option_1": { "text": "Fotboll", "isCorrect": false },
+        "option_2": { "text": "Amerikansk fotboll", "isCorrect": false },
+        "option_3": { "text": "Baseboll", "isCorrect": true },
+        "option_4": { "text": "Basket", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken konstnär färdigställde ett verk med titeln 'Självporträtt med två cirklar' 1669?",
+        "option_1": { "text": "Rembrandt", "isCorrect": true },
+        "option_2": { "text": "Claude Monet", "isCorrect": false },
+        "option_3": { "text": "Vincent van Gogh", "isCorrect": false },
+        "option_4": { "text": "Leonardo Da Vinci", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket företag lanserade parfymen 'Eau Sauvage' 1966?",
+        "option_1": { "text": "Yves Saint Laurent", "isCorrect": false },
+        "option_2": { "text": "Christian Dior", "isCorrect": true },
+        "option_3": { "text": "Hermès", "isCorrect": false },
+        "option_4": { "text": "Gucci", "isCorrect": false }
+    },
+    {
+        "Question": "Vem var den vietnamesiska revolutionära ledaren ansvarig för att leda Vietnam till självständighet mot Frankrike, då USA?",
+        "option_1": { "text": "Ho Chi Minh", "isCorrect": true },
+        "option_2": { "text": "Ngo Dinh Diem", "isCorrect": false },
+        "option_3": { "text": "Vo Nguyen Giap", "isCorrect": false },
+        "option_4": { "text": "Pham Van Dong", "isCorrect": false }
+    },
+    {
+        "Question": "Vad är den kemiska symbolen för guld?",
+        "option_1": { "text": "Au", "isCorrect": true },
+        "option_2": { "text": "Ag", "isCorrect": false },
+        "option_3": { "text": "Pb", "isCorrect": false },
+        "option_4": { "text": "Fe", "isCorrect": false }
+    },
+    {
+        "Question": "Hur många spelare på fältet finns det i ett amerikanskt fotbollslag?",
+        "option_1": { "text": "9", "isCorrect": false },
+        "option_2": { "text": "11", "isCorrect": true },
+        "option_3": { "text": "13", "isCorrect": false },
+        "option_4": { "text": "15", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket av följande är INTE ett nattdjur.",
+        "option_1": { "text": "Grävling", "isCorrect": false },
+        "option_2": { "text": "Varg", "isCorrect": false },
+        "option_3": { "text": "Flygande ekorre", "isCorrect": false },
+        "option_4": { "text": "Emu", "isCorrect": true }
+    },
+    {
+        "Question": "Vilket år slutade första världskriget?",
+        "option_1": { "text": "1918", "isCorrect": true },
+        "option_2": { "text": "1920", "isCorrect": false },
+        "option_3": { "text": "1916", "isCorrect": false },
+        "option_4": { "text": "1917", "isCorrect": false }
+    },
+    {
+        "Question": "Var kommer Tom Yum från?",
+        "option_1": { "text": "Sri Lanka", "isCorrect": false },
+        "option_2": { "text": "Thailand", "isCorrect": true },
+        "option_3": { "text": "Japan", "isCorrect": false },
+        "option_4": { "text": "Singapore", "isCorrect": false }
+    },
+    {
+        "Question": "Var är tajine från?",
+        "option_1": { "text": "Marocko", "isCorrect": true },
+        "option_2": { "text": "Spanien", "isCorrect": false },
+        "option_3": { "text": "Mexiko", "isCorrect": false },
+        "option_4": { "text": "Saudiarabien", "isCorrect": false }
+    },
+    {
+        "Question": "Var är biryani från?",
+        "option_1": { "text": "Etiopien", "isCorrect": false },
+        "option_2": { "text": "Jordanien", "isCorrect": false },
+        "option_3": { "text": "Israel", "isCorrect": false },
+        "option_4": { "text": "Indien", "isCorrect": true }
+    },
+    {
+        "Question": "Var är phở från?",
+        "option_1": { "text": "Vietnam", "isCorrect": true },
+        "option_2": { "text": "Kina", "isCorrect": false },
+        "option_3": { "text": "Sydkorea", "isCorrect": false },
+        "option_4": { "text": "Kambodja", "isCorrect": false }
+    },
+    {
+        "Question": "Var är nasi lemak från?",
+        "option_1": { "text": "Laos", "isCorrect": false },
+        "option_2": { "text": "Indonesien", "isCorrect": false },
+        "option_3": { "text": "Palau", "isCorrect": false },
+        "option_4": { "text": "Malaysia", "isCorrect": true }
+    },
+    {
+        "Question": "Var är kürtőskalács från?",
+        "option_1": { "text": "Slovakien", "isCorrect": false },
+        "option_2": { "text": "Estland", "isCorrect": false },
+        "option_3": { "text": "Ungern", "isCorrect": true },
+        "option_4": { "text": "Litauen", "isCorrect": false }
+    },
+    {
+        "Question": "Var är bunny chow ifrån?",
+        "option_1": { "text": "USA", "isCorrect": false },
+        "option_2": { "text": "Australien", "isCorrect": false },
+        "option_3": { "text": "Sydafrika", "isCorrect": true },
+        "option_4": { "text": "Myanmar", "isCorrect": false }
+    },
+    {
+        "Question": "Var är ceviche från?",
+        "option_1": { "text": "Panama", "isCorrect": false },
+        "option_2": { "text": "Grekland", "isCorrect": false },
+        "option_3": { "text": "Frankrike", "isCorrect": false },
+        "option_4": { "text": "Peru", "isCorrect": true }
+    },
+    {
+        "Question": "Var är chile en nogada från?",
+        "option_1": { "text": "Haiti", "isCorrect": false },
+        "option_2": { "text": "Mexico", "isCorrect": true },
+        "option_3": { "text": "Ecuador", "isCorrect": false },
+        "option_4": { "text": "Spanien", "isCorrect": false }
+    },
+    {
+        "Question": "Var är khachapuri från?",
+        "option_1": { "text": "Albanien", "isCorrect": false },
+        "option_2": { "text": "Cypern", "isCorrect": false },
+        "option_3": { "text": "Georgien", "isCorrect": true },
+        "option_4": { "text": "Kazakstan", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter målningen där Jesus äter vid ett långbord med alla sina lärjungar?",
+        "option_1": { "text": "Sista måltiden", "isCorrect": true },
+        "option_2": { "text": "Mona Lisa", "isCorrect": false },
+        "option_3": { "text": "Nattvarden", "isCorrect": false },
+        "option_4": { "text": "Kristi uppståndelse", "isCorrect": false }
+    },
+    {
+        "Question": "Vem av dessa berömda kompositörer var döv?",
+        "option_1": { "text": "Beethoven", "isCorrect": true },
+        "option_2": { "text": "Mozart", "isCorrect": false },
+        "option_3": { "text": "Bach", "isCorrect": false },
+        "option_4": { "text": "Händel", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket av dessa instrument spelar tillsammans med två fioler och en cello i en traditionell stråkkvartett?",
+        "option_1": { "text": "Harpa", "isCorrect": false },
+        "option_2": { "text": "Viola", "isCorrect": true },
+        "option_3": { "text": "Kontrabas", "isCorrect": false },
+        "option_4": { "text": "Piano", "isCorrect": false }
+    },
+    {
+        "Question": "Graffiti kommer från det italienska ordet 'graffiato', vilket betyder vad?",
+        "option_1": { "text": "Väggmålning", "isCorrect": false },
+        "option_2": { "text": "Repig", "isCorrect": true },
+        "option_3": { "text": "Vandalism", "isCorrect": false },
+        "option_4": { "text": "Spraymålning", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken brittisk konstnär målade 'The Football Match' 1949?",
+        "option_1": { "text": "Henry Moore", "isCorrect": false },
+        "option_2": { "text": "LS Lowry", "isCorrect": true },
+        "option_3": { "text": "Barbara Hepworth", "isCorrect": false },
+        "option_4": { "text": "David Hockney", "isCorrect": false }
+    },
+    {
+        "Question": "I The Great Gatsby, vilken Long Island by bor Jay Gatsby i?",
+        "option_1": { "text": "Southampton", "isCorrect": false },
+        "option_2": { "text": "East Village", "isCorrect": false },
+        "option_3": { "text": "Västägg", "isCorrect": true },
+        "option_4": { "text": "Northwell", "isCorrect": false }
+    },
+    {
+        "Question": "I vilken stad kan du hitta Michelangelos 'David'?",
+        "option_1": { "text": "Florens", "isCorrect": true },
+        "option_2": { "text": "Paris", "isCorrect": false },
+        "option_3": { "text": "Toulouse", "isCorrect": false },
+        "option_4": { "text": "Madrid", "isCorrect": false }
+    },
+    {
+        "Question": "Vem var Eiffeltornets huvudarkitekt?",
+        "option_1": { "text": "Frank Lloyd Wright", "isCorrect": false },
+        "option_2": { "text": "Victor Hora", "isCorrect": false },
+        "option_3": { "text": "Ludwig Mies van der Rohe", "isCorrect": false },
+        "option_4": { "text": "Stephen Sauvestre", "isCorrect": true }
+    },
+    {
+        "Question": "Vilken berömd balett inkluderar karaktärerna Prince Siegfried, Odette och Odile?",
+        "option_1": { "text": "Swan Lake", "isCorrect": true },
+        "option_2": { "text": "Nötknäpparen", "isCorrect": false },
+        "option_3": { "text": "Cinderella", "isCorrect": false },
+        "option_4": { "text": "Don Quijote", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken är den enda planeten i solsystemet som inte är uppkallad efter en grekisk gud eller gudinna?",
+        "option_1": { "text": "Jord", "isCorrect": true },
+        "option_2": { "text": "Mars", "isCorrect": false },
+        "option_3": { "text": "Venus", "isCorrect": false },
+        "option_4": { "text": "Saturnus", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket år hände Plutos omklassificering till en dvärgplanet?",
+        "option_1": { "text": "2001", "isCorrect": false },
+        "option_2": { "text": "2004", "isCorrect": false },
+        "option_3": { "text": "2006", "isCorrect": true },
+        "option_4": { "text": "2008", "isCorrect": false }
+    },
+    {
+        "Question": "Hur lång tid tar det för solens ljus att nå jorden?",
+        "option_1": { "text": "8 sekunder", "isCorrect": false },
+        "option_2": { "text": "8 minuter", "isCorrect": true },
+        "option_3": { "text": "8 timmar", "isCorrect": false },
+        "option_4": { "text": "8 dagar", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken konstellation är närmast jorden?",
+        "option_1": { "text": "Hercules", "isCorrect": false },
+        "option_2": { "text": "Centaurus", "isCorrect": true },
+        "option_3": { "text": "Orion", "isCorrect": false },
+        "option_4": { "text": "Ursa Major", "isCorrect": false }
+    },
+    {
+        "Question": "Vem var den första som reste till rymden 1961?",
+        "option_1": { "text": "Yuri Romanenko", "isCorrect": false },
+        "option_2": { "text": "Yuri Glaskov", "isCorrect": false },
+        "option_3": { "text": "Yuri Malyshev", "isCorrect": false },
+        "option_4": { "text": "Yuri Gagarin", "isCorrect": true }
+    },
+    {
+        "Question": "Vilket element utgör 92% av solen?",
+        "option_1": { "text": "Kväve", "isCorrect": false },
+        "option_2": { "text": "Väte", "isCorrect": true },
+        "option_3": { "text": "Syre", "isCorrect": false },
+        "option_4": { "text": "Helium", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter gränsen runt ett svart hål där ljus inte kan undkomma hålets gravitationskraft?",
+        "option_1": { "text": "Händelseshorisont", "isCorrect": true },
+        "option_2": { "text": "Singularitet", "isCorrect": false },
+        "option_3": { "text": "Accretion disk", "isCorrect": false },
+        "option_4": { "text": "Photon ring", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter galaxen som ligger närmast Vintergatan?",
+        "option_1": { "text": "Whirlpool", "isCorrect": false },
+        "option_2": { "text": "Grodyngel", "isCorrect": false },
+        "option_3": { "text": "Andromeda", "isCorrect": true },
+        "option_4": { "text": "Messier 83", "isCorrect": false }
+    },
+    {
+        "Question": "Vad heter den 'kosmiska munken' av is och sten som ligger nära Neptunus omloppsbana?",
+        "option_1": { "text": "Oort Cloud", "isCorrect": false },
+        "option_2": { "text": "Quaoar Wall", "isCorrect": false },
+        "option_3": { "text": "Kuiperbälte", "isCorrect": true },
+        "option_4": { "text": "Torusnebulosa", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken nebulosa är närmast jorden?",
+        "option_1": { "text": "Orion", "isCorrect": true },
+        "option_2": { "text": "Krabba", "isCorrect": false },
+        "option_3": { "text": "Hästhuvud", "isCorrect": false },
+        "option_4": { "text": "Cat Eye", "isCorrect": false }
+    },
+    {
+        "Question": "Jeans är uppkallade efter vilken italiensk stad, där en bomullsmanchester som kallas 'jean' tillverkades?",
+        "option_1": { "text": "Gallarate", "isCorrect": true },
+        "option_2": { "text": "Gelo", "isCorrect": false },
+        "option_3": { "text": "Genua", "isCorrect": false },
+        "option_4": { "text": "Guidonia Montecelio", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken modedesigner tog med sig new wave- och punkstilar till mainstream?",
+        "option_1": { "text": "Vivienne Westwood", "isCorrect": true },
+        "option_2": { "text": "Andreas Kronthaler", "isCorrect": false },
+        "option_3": { "text": "Alexander McQueen", "isCorrect": false },
+        "option_4": { "text": "Jean Paul Gaultier", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken modell snubblade och ramlade på catwalken iförd Vivienne Westwoods skor?",
+        "option_1": { "text": "Naomi Campbell", "isCorrect": true },
+        "option_2": { "text": "Kate Moss", "isCorrect": false },
+        "option_3": { "text": "Gisele Bündchen", "isCorrect": false },
+        "option_4": { "text": "Cindy Crawford", "isCorrect": false }
+    },
+    {
+        "Question": "Arab Fashion Week hålls varje år i vilken stad?",
+        "option_1": { "text": "Doha", "isCorrect": false },
+        "option_2": { "text": "Abu Dhabi", "isCorrect": false },
+        "option_3": { "text": "Dubai", "isCorrect": true },
+        "option_4": { "text": "Medina", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket modehus designade Meghan Markles kungliga bröllopsklänning?",
+        "option_1": { "text": "Givenchy", "isCorrect": true },
+        "option_2": { "text": "Louis Vuitton", "isCorrect": false },
+        "option_3": { "text": "Dolce & Gabbana", "isCorrect": false },
+        "option_4": { "text": "Off-White", "isCorrect": false }
+    },
+    {
+        "Question": "Vilken typ av klädesplagg är en espadrille?",
+        "option_1": { "text": "Hatt", "isCorrect": false },
+        "option_2": { "text": "Skor", "isCorrect": true },
+        "option_3": { "text": "Bälte", "isCorrect": false },
+        "option_4": { "text": "Manschettknapp", "isCorrect": false }
+    },
+    {
+        "Question": "Vilket berömt modeobjekt namngavs efter en serie kärnvapenförsök av den amerikanska militären?",
+        "option_1": { "text": "Boardshorts", "isCorrect": false },
+        "option_2": { "text": "Pinafore", "isCorrect": false },
+        "option_3": { "text": "Jodhpur", "isCorrect": false },
+        "option_4": { "text": "Bikini", "isCorrect": true }
+    }
+]
