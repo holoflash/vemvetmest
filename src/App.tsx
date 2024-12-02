@@ -75,7 +75,7 @@ const App = () => {
 
     setQuestions(shuffledDeck);
     setQuestionIndex(0);
-    setTimer(3);
+    setTimer(60);
     setScore(0);
     setGameOver(false);
   };

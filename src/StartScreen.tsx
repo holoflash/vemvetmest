@@ -11,7 +11,6 @@ const StartScreen = ({ onStart, onLanguageChange }: { onStart: (name: string) =>
 
     return (
         <div className="container">
-
             <h1>VEM VET MEST?</h1>
             <input
                 type="text"
